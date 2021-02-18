@@ -25,7 +25,7 @@ SECRET_KEY = 'v@$bwv78it($7(_=mq+dykt&muqv-btp*10#-w!m&f(&$%1_jo'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'hinohara.pythonanywhere.com']
 
 
 # Application definition
